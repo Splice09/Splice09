@@ -9,6 +9,7 @@
 
 <h3 align="left">Current Work:</h3>
 🔭 [CodeWars Puzzles](https://github.com/Splice09/CodeWars)
+<br/>
 🔭 [Personal Website](https://github.com/Splice09/pfleming-app)
 
 <h3 align="left">Connect with me:</h3>
