@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Patrick Fleming</h1>
 <h3 align="center">A Software Engineer and Serial Hobbyist.</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=splice09&show_icons=true&locale=en" alt="splice09" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=splice09&show_icons=true&locale=en" alt="splice09" /></p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splice09&show_icons=true&locale=en&layout=compact" alt="splice09" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
